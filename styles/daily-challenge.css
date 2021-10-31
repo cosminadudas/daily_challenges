@@ -1,0 +1,10 @@
+img {
+  width: 400px;
+  height: 300px;
+}
+
+#today-challenge {
+  color: #a83103;
+  font-weight: bold;
+  font-size: 50px;
+}
