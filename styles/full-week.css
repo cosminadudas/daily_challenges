@@ -7,7 +7,7 @@ a {
   font-size: 25px;
   background-color: rgb(255, 81, 0);
   /* border: solid gray 2px; */
-  padding: 7px;
+  padding: 7px 10px;
   border-radius: 4px;
   box-shadow: 0 0 6px 0 rgba(22, 22, 22, 0.4);
 }
