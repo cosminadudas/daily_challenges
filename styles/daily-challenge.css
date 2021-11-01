@@ -1,6 +1,31 @@
 img {
-  width: 400px;
+  width: 300px;
   height: 300px;
+  /* using object-fit property in order to not stretch the image when styling */
+  object-fit: cover;
+  box-shadow: 4px 4px 4px rgba(95, 87, 87, 0.3);
+  border-radius: 50%;
+}
+
+body {
+  background-color: rgb(212, 233, 238);
+}
+
+span {
+  color: #692003;
+}
+
+.challenge-desc {
+  background-color: rgb(253, 232, 232);
+  border: 2px solid rgb(170, 176, 189);
+  width: 70%;
+  margin: -150px auto 0 auto;
+  border-radius: 8px;
+  padding: 150px 40px 40px 50px;
+}
+
+.explore {
+  font-size: 20px;
 }
 
 #today-challenge {
